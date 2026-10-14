@@ -1,0 +1,3 @@
+# .clangd in project root
+CompileFlags:
+  Add: [-std=c++20]

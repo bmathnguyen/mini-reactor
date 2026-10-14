@@ -1,0 +1,4 @@
+- add logging to custom fd or stdout for logging
+- refactor for readability and separate libraries
+- document and push to git
+- errno from OS?
