@@ -4,3 +4,5 @@ compile_commands.json
 .DS_Store
 .agents/
 AGENTS.md
+TODO.md
+CLAUDE.md
